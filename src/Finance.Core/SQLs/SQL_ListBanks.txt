@@ -1,0 +1,7 @@
+﻿SELECT
+    [ID],
+    [Name],
+    [CreationDate],
+    [ModificationDate]
+FROM
+    [Banks];
